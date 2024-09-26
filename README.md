@@ -1,7 +1,6 @@
 ## Hello deer 🦌, I'm Claudia!
 
-- 🔭 I’m currently a Trainee Software Engineer at TechSwitch
-- 🌱 I’m currently learning C#, .NET, ASP.NET Core MVC, JavaScript, TypeScript, React, Node.js
+- 🌱 I’m currently a Trainee Software Engineer at TechSwitch 
 - 📩 Reach me at claudiagiancola.ac@gmail.com
 - ⚡ Fun fact: I'm great at replicating some animal sounds 🐶 and I'm a proud Pokémon trainer 🌘😼
 

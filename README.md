@@ -7,7 +7,11 @@
 
 ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,nodejs,react,vite,html,css,sass,jquery,postgres,postman,powershell,jest,git,github,stackoverflow,unreal,vscode,discord,ai,ps,pr&perline=12)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,nodejs,react,vite,html,css,sass,jquery,postgres,postman,powershell,jest,git,github,stackoverflow,unreal,vscode,discord,ai,ps,pr&perline=12"/>
+  </a>
+</p>
 
 
 ### GitHub Stats
